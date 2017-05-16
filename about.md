@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: lakhina.github.io/resume/
+permalink: /resume/
 ---
 
 Some information about you!
