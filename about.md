@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: resume/
+permalink: /about/
 ---
 
 Some information about you!
