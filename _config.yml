@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/lakhina
+  github: lakhina
   instagram:
-  linkedin:  https://www.linkedin.com/in/ruchika-lakhina-9b75b8aa/
+  linkedin:  ruchika-lakhina-9b75b8aa/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/ruchika_lakhina
+  twitter: ruchika_lakhina
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: https://plus.google.com/u/1/104649951504974132534
+  googleplus: /u/1/104649951504974132534
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
