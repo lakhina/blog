@@ -11,6 +11,7 @@ description: Computer Science Graduate from UIET,MDU,Rohtak,India
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:  https://github.com/lakhina/blog/blob/master/images/myavatar.png 
 [[ blog/images/myavatar.png ]]
+![useful image]({{ site.url }}/blog/images/myavatar.png)
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/myavatar.png
 
 #
