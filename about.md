@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi!I am a Computer Science graduate from UIET,MDU,India.
+Hi! I am a Computer Science graduate from UIET,MDU,India. 
 I am passionate about programming .
 
 ### Contact me
